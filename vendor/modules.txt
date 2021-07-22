@@ -1,0 +1,12 @@
+# github.com/evelritual/goose v0.4.0
+## explicit
+github.com/evelritual/goose
+github.com/evelritual/goose/audio
+github.com/evelritual/goose/graphics
+github.com/evelritual/goose/input
+github.com/evelritual/goose/internal/drivers/sdl2
+# github.com/veandco/go-sdl2 v0.4.4
+github.com/veandco/go-sdl2/img
+github.com/veandco/go-sdl2/mix
+github.com/veandco/go-sdl2/sdl
+github.com/veandco/go-sdl2/ttf
